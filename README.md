@@ -1,4 +1,4 @@
-## Les boutons précédents/suivant sont également les ronds de couleur !
+## Le JSON-SERVER écoute par défaut sur le port : 4242 <br> Les boutons précédents/suivant sont également les ronds de couleur !
 
 ## Available Scripts
 
